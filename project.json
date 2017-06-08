@@ -1,0 +1,12 @@
+{
+  "description": "Simple Process Project",
+  "version": "2016.2.6344.28632",
+  "main": "Main.xaml",
+  "id": "Kiran_UIPath",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
